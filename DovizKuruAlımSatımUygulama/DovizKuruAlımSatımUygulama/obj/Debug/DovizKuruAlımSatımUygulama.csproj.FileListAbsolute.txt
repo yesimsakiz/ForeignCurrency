@@ -1,0 +1,12 @@
+c:\users\kurumsal\documents\visual studio 2015\Projects\DovizKuruAlımSatımUygulama\DovizKuruAlımSatımUygulama\bin\Debug\DovizKuruAlımSatımUygulama.exe.config
+c:\users\kurumsal\documents\visual studio 2015\Projects\DovizKuruAlımSatımUygulama\DovizKuruAlımSatımUygulama\bin\Debug\DovizKuruAlımSatımUygulama.exe
+c:\users\kurumsal\documents\visual studio 2015\Projects\DovizKuruAlımSatımUygulama\DovizKuruAlımSatımUygulama\bin\Debug\DovizKuruAlımSatımUygulama.pdb
+c:\users\kurumsal\documents\visual studio 2015\Projects\DovizKuruAlımSatımUygulama\DovizKuruAlımSatımUygulama\bin\Debug\Newtonsoft.Json.dll
+c:\users\kurumsal\documents\visual studio 2015\Projects\DovizKuruAlımSatımUygulama\DovizKuruAlımSatımUygulama\bin\Debug\Newtonsoft.Json.xml
+c:\users\kurumsal\documents\visual studio 2015\Projects\DovizKuruAlımSatımUygulama\DovizKuruAlımSatımUygulama\obj\Debug\DovizKuruAlımSatımUygulama.csprojResolveAssemblyReference.cache
+c:\users\kurumsal\documents\visual studio 2015\Projects\DovizKuruAlımSatımUygulama\DovizKuruAlımSatımUygulama\obj\Debug\DovizKuruAlımSatımUygulama.Form1.resources
+c:\users\kurumsal\documents\visual studio 2015\Projects\DovizKuruAlımSatımUygulama\DovizKuruAlımSatımUygulama\obj\Debug\DovizKuruAlımSatımUygulama.Form2.resources
+c:\users\kurumsal\documents\visual studio 2015\Projects\DovizKuruAlımSatımUygulama\DovizKuruAlımSatımUygulama\obj\Debug\DovizKuruAlımSatımUygulama.Properties.Resources.resources
+c:\users\kurumsal\documents\visual studio 2015\Projects\DovizKuruAlımSatımUygulama\DovizKuruAlımSatımUygulama\obj\Debug\DovizKuruAlımSatımUygulama.csproj.GenerateResource.Cache
+c:\users\kurumsal\documents\visual studio 2015\Projects\DovizKuruAlımSatımUygulama\DovizKuruAlımSatımUygulama\obj\Debug\DovizKuruAlımSatımUygulama.exe
+c:\users\kurumsal\documents\visual studio 2015\Projects\DovizKuruAlımSatımUygulama\DovizKuruAlımSatımUygulama\obj\Debug\DovizKuruAlımSatımUygulama.pdb
